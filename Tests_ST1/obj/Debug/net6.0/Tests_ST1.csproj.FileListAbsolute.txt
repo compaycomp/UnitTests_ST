@@ -1,0 +1,14 @@
+C:\Users\CompayComp\source\repos\Tests_ST1\Tests_ST1\bin\Debug\net6.0\Tests_ST1.exe
+C:\Users\CompayComp\source\repos\Tests_ST1\Tests_ST1\bin\Debug\net6.0\Tests_ST1.deps.json
+C:\Users\CompayComp\source\repos\Tests_ST1\Tests_ST1\bin\Debug\net6.0\Tests_ST1.runtimeconfig.json
+C:\Users\CompayComp\source\repos\Tests_ST1\Tests_ST1\bin\Debug\net6.0\Tests_ST1.dll
+C:\Users\CompayComp\source\repos\Tests_ST1\Tests_ST1\bin\Debug\net6.0\Tests_ST1.pdb
+C:\Users\CompayComp\source\repos\Tests_ST1\Tests_ST1\obj\Debug\net6.0\Tests_ST1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompayComp\source\repos\Tests_ST1\Tests_ST1\obj\Debug\net6.0\Tests_ST1.AssemblyInfoInputs.cache
+C:\Users\CompayComp\source\repos\Tests_ST1\Tests_ST1\obj\Debug\net6.0\Tests_ST1.AssemblyInfo.cs
+C:\Users\CompayComp\source\repos\Tests_ST1\Tests_ST1\obj\Debug\net6.0\Tests_ST1.csproj.CoreCompileInputs.cache
+C:\Users\CompayComp\source\repos\Tests_ST1\Tests_ST1\obj\Debug\net6.0\Tests_ST1.dll
+C:\Users\CompayComp\source\repos\Tests_ST1\Tests_ST1\obj\Debug\net6.0\refint\Tests_ST1.dll
+C:\Users\CompayComp\source\repos\Tests_ST1\Tests_ST1\obj\Debug\net6.0\Tests_ST1.pdb
+C:\Users\CompayComp\source\repos\Tests_ST1\Tests_ST1\obj\Debug\net6.0\Tests_ST1.genruntimeconfig.cache
+C:\Users\CompayComp\source\repos\Tests_ST1\Tests_ST1\obj\Debug\net6.0\ref\Tests_ST1.dll
